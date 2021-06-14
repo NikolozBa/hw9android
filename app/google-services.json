@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828104816788",
+    "project_id": "android-hw9-573ea",
+    "storage_bucket": "android-hw9-573ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828104816788:android:77ab7c473e2162d2db5c81",
+        "android_client_info": {
+          "package_name": "com.example.hw9android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828104816788-9mjisak480d5fulbire3qso9pn3srjme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSS0nH2kdDwrgCSpKedzDMI9DYhwYklc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828104816788-9mjisak480d5fulbire3qso9pn3srjme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
